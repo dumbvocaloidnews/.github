@@ -1,6 +1,6 @@
 :sparkles: _こんにちは!_
 
-This repository serves as a landing area for the entire organization (or betterly known as "project") of Dumb Vocaloid News! \
+This serves as the landing area for the organization (or betterly known as "project") of Dumb Vocaloid News! \
 I know, the name sounds _really_ terrible but don't let that phase you- seriously. I decided to start this project as a way of getting central- **_reputable[!]_**- news about what may be going on in the vast vocaloid world. 
 
 This project will _mainly_ start off with Hatsune Miku as I have been told that there is a lot to cover but then in the near future will this project branch out into different characters, singers, etc etc. \
